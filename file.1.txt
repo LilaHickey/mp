@@ -3,3 +3,5 @@ this is a test file.
 --updating file 1--
 
 --updating file 1 again--
+
+--updating file 1 to stash--s
